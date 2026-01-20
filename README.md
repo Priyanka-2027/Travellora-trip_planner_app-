@@ -1,4 +1,4 @@
-# 🌍 TravelLora - Your Ultimate Travel Companion
+# 🌍 Travellora - Your Ultimate Travel Companion
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
