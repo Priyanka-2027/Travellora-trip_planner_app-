@@ -1,4 +1,4 @@
-# 🌍 Travellora - Your Ultimate Travel Companion
+# 🌍 TravelLora - Your Ultimate Travel Companion
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
@@ -7,6 +7,7 @@
 
 TravelLora is a modern, responsive travel planning and booking platform that helps users discover, plan, and book their dream vacations. With an intuitive interface and powerful features, TravelLora makes travel planning a breeze.
 
+![TravelLora Screenshot](/public/screenshot.png)
 
 ## ✨ Features
 
@@ -97,7 +98,9 @@ The application uses a mock JSON server with the following endpoints:
 - `POST /bookings` - Create a new booking (protected)
 - `GET /users` - Get user data (protected)
 
+## 📝 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -117,13 +120,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 📧 Contact
 
-## Output Screenshots
-   <img width="1800" height="987" alt="Screenshot 2026-01-20 142806" src="https://github.com/user-attachments/assets/4e427831-5403-404f-94f6-c50df88bc056" />
-   <img width="1800" height="970" alt="image" src="https://github.com/user-attachments/assets/111565bd-426d-4b44-9523-81e30ae394b8" />
-   <img width="1665" height="977" alt="image" src="https://github.com/user-attachments/assets/0bc0eb59-91a5-4195-a3f4-831ae1d52601" />
-   <img width="1683" height="368" alt="image" src="https://github.com/user-attachments/assets/0ef7510b-bdbb-47eb-8c19-19de871bbb03" />
-   <img width="1660" height="758" alt="image" src="https://github.com/user-attachments/assets/d7e8e0e4-47df-4258-a8a9-cc15ab9847a8" />
-   <img width="1451" height="775" alt="image" src="https://github.com/user-attachments/assets/f2d36d03-309d-4adc-9fc1-020383df4e17" />
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-
+Project Link: [https://github.com/your-username/travellora](https://github.com/your-username/travellora)
