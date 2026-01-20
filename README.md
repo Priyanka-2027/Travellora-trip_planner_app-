@@ -97,9 +97,7 @@ The application uses a mock JSON server with the following endpoints:
 - `POST /bookings` - Create a new booking (protected)
 - `GET /users` - Get user data (protected)
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
