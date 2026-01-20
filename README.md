@@ -1,4 +1,4 @@
-# 🌍 TravelLora - Your Ultimate Travel Companion
+# 🌍 Travellora - Your Ultimate Travel Companion
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
@@ -98,9 +98,6 @@ The application uses a mock JSON server with the following endpoints:
 - `POST /bookings` - Create a new booking (protected)
 - `GET /users` - Get user data (protected)
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -120,8 +117,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-Project Link: [https://github.com/your-username/travellora](https://github.com/your-username/travellora)
