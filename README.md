@@ -13,7 +13,7 @@ TravelLora is a modern, responsive travel planning and booking platform that hel
 - **🌍 Explore Destinations** - Discover amazing places to visit with detailed information
 - **🏨 Hotel Booking** - Find and book accommodations that suit your needs
 - **🗺️ Interactive Maps** - Explore locations with integrated maps
-- **📅 Travel Planning** - Create and manage your travel itineraries
+- **📅 Travel Planning** - Create and manage your travel itineraries.
 - **🔖 Save Favorites** - Bookmark places and hotels for future reference
 - **👤 User Profiles** - Manage your bookings and preferences
 - **🔐 Secure Authentication** - Protected routes and secure user data
